@@ -179,6 +179,6 @@
 ---
 
 Live Streamlit App: [Credit Card Fraud Detection](https://credit-card-fraud-detection-classification.streamlit.app/)
-**Built by Miraj Ud Din** | [Portfolio](https://miraj-portfolio-db-2026.web.app/)
+**Built by Miraj Ud Din** | [Portfolio](https://miraj-ud-din-portfolio.vercel.app/)
   
 ---
